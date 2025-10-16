@@ -1,4 +1,4 @@
-# harish-212223060
+# harish 
 # IOT-BASED-GARBAGE-MONITORING-SYSTEM-
 
 # Tinkercard link:
